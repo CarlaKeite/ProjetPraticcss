@@ -1,0 +1,49 @@
+    
+  body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f2f5;
+  }
+
+  header {
+    background-color: #0056b3;
+    color: white;
+    padding: 30px;
+    text-align: center;
+  }
+
+  .introducao {
+    background-color: white;
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .introducao a {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  .introducao a:hover {
+    text-decoration: underline;
+  }
+
+  .links-uteis {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  .links-uteis li {
+    margin-bottom: 8px;
+  }
+
+  footer {
+    text-align: center;
+    margin: 40px 0;
+    color: #555;
+    font-size: 14px;
+  }
